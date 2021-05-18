@@ -1,5 +1,5 @@
-track DISCREPs_hg38
+track DISCREPs_GRCh38
 bigDataUrl DISCREPS_GRCh38sorted.bb
-shortLabel DISCREPs_hg38
-longLabel Regions on hg38 reference enriched in discordant variant calls when compared to the same region on hg19
+shortLabel DISCREPs_GRCh38
+longLabel Regions on GRCh38 reference enriched in discordant variant calls when compared to the same region on GRCh37
 type bigBed
